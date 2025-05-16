@@ -1,4 +1,4 @@
-Python Client for Google Maps Services
+Python Client for Google Maps Services by gbengs
 ====================================
 
 ![Test](https://github.com/googlemaps/google-maps-services-js/workflows/Test/badge.svg)
